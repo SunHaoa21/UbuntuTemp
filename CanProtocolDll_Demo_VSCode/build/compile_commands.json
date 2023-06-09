@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cyhcs/CanProtocolDll_Demo_VSCode/build",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g   -o CMakeFiles/CanProtocolDll_Demo_VSCode.dir/main.cpp.o -c /home/cyhcs/CanProtocolDll_Demo_VSCode/main.cpp",
+  "file": "/home/cyhcs/CanProtocolDll_Demo_VSCode/main.cpp"
+}
+]

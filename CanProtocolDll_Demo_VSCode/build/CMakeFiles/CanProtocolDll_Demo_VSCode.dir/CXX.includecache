@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cyhcs/CanProtocolDll_Demo_VSCode/main.cpp
+iostream
+-
+proservoLite_V2.h
+/home/cyhcs/CanProtocolDll_Demo_VSCode/proservoLite_V2.h
+
+/home/cyhcs/CanProtocolDll_Demo_VSCode/proservoLite_V2.h
+
